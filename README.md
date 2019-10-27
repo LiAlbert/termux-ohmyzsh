@@ -1,13 +1,13 @@
 # Termux-ohmyzsh
 
-A fork from [oh-my-termux](https://github.com/4679/oh-my-termux) 。让你的 Termux 变的五颜六色～
+A fork from [termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh 。让你的 Termux 变的五颜六色～
 
 为 Termux 添加 [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) 终端环境以及 [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)，设置色彩样式（大部分来自 [Gogh](https://github.com/Mayccoll/Gogh) ）和 Powerline 字体（来自 [powerline/fonts](https://github.com/powerline/fonts)）。oh-my-zsh 主题默认为 agnoster，颜色样式默认为 Tango，字体默认为 Ubuntu。
 
 **此 Repo 使用 Termux 官方源，在中国大陆可能需要将 Termux 应用添加到代理列表。**
 ## 使用：
 ```shell
-sh -c "$(curl -fsSL https://github.com/Cabbagec/termux-ohmyzsh/raw/master/install.sh)"
+sh -c "$(curl -fsSL https://github.com/LiAlbert/termux-ohmyzsh/raw/master/install.sh)"
 ```
 
 ## 设置色彩样式：
@@ -60,7 +60,7 @@ Tango 颜色主题 + oh-my-zsh agnoster 主题 + Ubuntu 字体：
 
 # Termux-ohmyzsh
 
-A fork from [oh-my-termux](https://github.com/4679/oh-my-termux). It makes the app more colorful.
+A fork from [termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh). It makes the app more colorful.
 
 Termux-ohmyzsh implements oh-my-zsh and [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) on your Termux app, as well as some color schemes (most are from [Gogh](https://github.com/Mayccoll/Gogh)), and some Powerline fonts (ported from [powerline/fonts](https://github.com/powerline/fonts)). Default set is agnoster for oh-my-zsh, Tango for color scheme, and Ubuntu font.
 
@@ -70,7 +70,7 @@ Termux-ohmyzsh implements oh-my-zsh and [zsh-syntax-highlighting](https://github
 
 ## Install:
 ```shell
-sh -c "$(curl -fsSL https://github.com/Cabbagec/termux-ohmyzsh/raw/master/install.sh)"
+sh -c "$(curl -fsSL https://github.com/LiAlbert/termux-ohmyzsh/raw/master/install.sh)"
 ```
 
 ## Change color scheme:
